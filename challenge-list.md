@@ -1,13 +1,13 @@
-- [ ] 1  
-- [ ] 2  
-- [ ] 3  
-- [ ] 4  
-- [ ] 5  
-- [ ] 6  
-- [ ] 7  
-- [ ] 8  
-- [ ] 9  
-- [x] 10  
+- [ ] 1 Download Manager
+- [ ] 2 Make an elastic producer/consumer task queue.
+- [ ] 3 IRC Client
+- [ ] 4 Markov Chain Sentence Generator *(Include Shitposting Capabilities)* 
+- [ ] 5 English Sentence Parser that Points to the Context of a Sentence
+- [ ] 6 MIDI Player + Editor 
+- [ ] 7 Stock Market Simulator Using Yahoo Spreadsheet Data
+- [ ] 8 Parametric/Graphic Equalizer for .wav files *(Make it real-time)* 
+- [ ] 9 Graphing calculator *(BONUS: Graph the Function's Derivatives)* 
+- [x] 10 To-Do List Application (Web app or CLI) 
 - [ ] 11  
 - [ ] 12  
 - [ ] 13  
@@ -27,7 +27,7 @@
 - [ ] 27  
 - [ ] 28  
 - [ ] 29  
-- [x] 30  
+- [x] 30 IP/URL Obscurification *(http://www.pc-help.org/obscure.htm)* 
 - [ ] 31  
 - [ ] 32  
 - [ ] 33  
@@ -43,7 +43,7 @@
 - [ ] 43  
 - [ ] 44  
 - [ ] 45  
-- [x] 46  
+- [x] 46 Counts occurrences of characters in a Given String *(include support for unicode characters)* 
 - [ ] 47  
 - [ ] 48  
 - [ ] 49  
@@ -53,12 +53,12 @@
 - [ ] 53  
 - [ ] 54  
 - [ ] 55  
-- [x] 56  
+- [x] 56 Password Generator *(Let User Choose Options)* 
 - [ ] 57  
 - [ ] 58  
 - [ ] 59  
 - [ ] 60  
-- [x] 61  
+- [x] 61 ROT 13 
 - [ ] 62  
 - [ ] 63  
 - [ ] 64  
@@ -108,7 +108,7 @@
 - [ ] 108  
 - [ ] 109  
 - [ ] 110  
-- [x] 111  
+- [x] 111 Rock Paper Scissors 
 - [ ] 112  
 - [ ] 113  
 - [ ] 114  
