@@ -41,7 +41,7 @@
 - [ ] 41  
 - [ ] 42  
 - [ ] 43  
-- [ ] 44  
+- [x] 44  
 - [ ] 45  
 - [x] 46 Counts occurrences of characters in a Given String *(include support for unicode characters)* 
 - [ ] 47  
