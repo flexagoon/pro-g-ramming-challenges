@@ -8,25 +8,25 @@
 - [ ] 8 Parametric/Graphic Equalizer for .wav files *(Make it real-time)* 
 - [ ] 9 Graphing calculator *(BONUS: Graph the Function's Derivatives)* 
 - [x] 10 To-Do List Application (Web app or CLI) 
-- [ ] 11  
-- [ ] 12  
-- [ ] 13  
-- [ ] 14  
-- [ ] 15  
-- [ ] 16  
-- [ ] 17  
-- [ ] 18  
-- [ ] 19  
-- [ ] 20  
-- [ ] 21  
-- [ ] 22  
-- [ ] 23  
-- [ ] 24  
-- [ ] 25  
-- [ ] 26  
-- [ ] 27  
-- [ ] 28  
-- [ ] 29  
+- [ ] 11 Verlet Integration *(Verlet Cloth)*
+- [ ] 12 TCP/UDP Chat Server + Client
+- [ ] 13 Music Streaming
+- [ ] 14 Shazam
+- [ ] 15 Chatbot *(with conversation retention)*
+- [ ] 16 Curses Text Editor *(with Emacs/Vim Keybindings)*
+- [ ] 17 Paint Clone 
+- [ ] 18 Image to ASCII Art 
+- [ ] 19 Booru (Image Board) Image Downloader
+- [ ] 20 Image Converter
+- [ ] 21 ID3 Reader
+- [ ] 22 Sound Synthesis (Sine, square, sawtooth, etc...) *("Fuck You" mode: Realtime MIDI Playback with Custom instruments)*
+- [ ] 23 C++ IDE Plugin for Sublime/Atom *(Auto-Complete, Go-To Symbol Declaration and Definition using Clang's AST)* 
+- [ ] 24 Simple Version Control supporting checkout, commit (with commit message), unlocking, and per-file configuration of number of revisions kept
+- [ ] 25 Imageboard (Imagine vichan) 
+- [ ] 26 Password Manager 
+- [ ] 27 Create a Torrent Client (CLI or GUI) 
+- [ ] 28 Booru Client 
+- [x] 29 Key Press Bot
 - [x] 30 IP/URL Obscurification *(http://www.pc-help.org/obscure.htm)* 
 - [ ] 31  
 - [ ] 32  
@@ -41,7 +41,7 @@
 - [ ] 41  
 - [ ] 42  
 - [ ] 43  
-- [x] 44  
+- [x] 44 FizzBuzz in Assembly
 - [ ] 45  
 - [x] 46 Counts occurrences of characters in a Given String *(include support for unicode characters)* 
 - [ ] 47  
