@@ -59,25 +59,25 @@
 - [ ] 59 Caesar Cipher Cracker 
 - [ ] 60 Dijkstra's Algorithm 
 - [x] 61 ROT 13 
-- [ ] 62  
-- [ ] 63  
-- [ ] 64  
-- [ ] 65  
-- [ ] 66  
-- [ ] 67  
-- [ ] 68  
-- [ ] 69  
-- [ ] 70  
-- [ ] 71  
-- [ ] 72  
-- [ ] 73  
-- [ ] 74  
-- [ ] 75  
-- [ ] 76  
-- [ ] 77  
-- [ ] 78  
-- [ ] 79  
-- [ ] 80  
+- [ ] 62 Program that displays MBR Contents 
+- [ ] 63 Random Name Picker 
+- [ ] 64 Encrypt/Decrypt Text: Implement at least one from http://rumkin.com/tools/cipher 
+- [ ] 65 Youtube To MP3 
+- [ ] 66 Text to Hexadecimal/Binary 
+- [ ] 67 Calculate the first 1,000 digits of pi iteratively 
+- [ ] 68 Sierpinski Triangle 
+- [ ] 69 Mandlebrot Set
+- [ ] 70 OpenAI Gym Project 
+- [ ] 71 AI for Roguelikes 
+- [ ] 72 Sudoku/n-Puzzle Solver using A* algorithm 
+- [ ] 73 Connect-4 AI Player using Alpha-Beta Pruning 
+- [ ] 74 Basic Neural Network - Simulate individual neurons and their connections 
+- [ ] 75 Real Neural Network - Implement a basic feed-forward neural network using matrices for entire layers along with matrix operations for computations. 
+- [ ] 76 Convolutional Neural Network: Implement a convolutional N.N for a handwritten digit recognition, test on MNIST dataset (Use TensorFlow, Theano, etc...) 
+- [ ] 77 Convolutional Neural Network: Implement your own convolutional neural network for handwritten digit recognition, test on MNIST Dataset (Without TensorFlow, Theano, etc...) 
+- [ ] 78 Virtual Machine with a Script that Writes "Hello, World" 
+- [ ] 79 Basic Bootloader (with extended file system) 
+- [ ] 80 Terminal Shell (Executable Binaries, Pipe System, Redirection, and History) *(BONUS: Make it a GUI)* 
 - [ ] 81  
 - [ ] 82  
 - [ ] 83  
@@ -137,7 +137,7 @@
 - [ ] 137  
 - [ ] 138  
 - [ ] 139  
-- [ ] 140  
+- [x] 140 Calculate Dot and Cross Product of Two Vectors
 - [ ] 141  
 - [ ] 142  
 - [ ] 143  
