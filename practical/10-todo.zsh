@@ -1,4 +1,4 @@
-set -o kshglob # This option is required for line 9 to work
+set -o kshglob # This option is required for line 10 to work
 case $1 in
 	edit)   $EDITOR ~/todo                              			       ;;
 	list)   cat -n ~/todo                               			       ;;
