@@ -28,36 +28,36 @@
 - [ ] 28 Booru Client 
 - [x] 29 Key Press Bot
 - [x] 30 IP/URL Obscurification *(http://www.pc-help.org/obscure.htm)* 
-- [ ] 31  
-- [ ] 32  
-- [ ] 33  
-- [ ] 34  
-- [ ] 35  
-- [ ] 36  
-- [ ] 37  
-- [ ] 38  
-- [ ] 39  
-- [ ] 40  
-- [ ] 41  
-- [ ] 42  
-- [ ] 43  
+- [ ] 31 Radix Base Converter (Given a radic base, convert it to decimal)
+- [ ] 32 Chan aggregator (Lets user view various boards from different 'chans') *(Bonus: Add 4ChanX and Archiving Functionality)* 
+- [ ] 33 Encrypt a File, and upload it online 
+- [ ] 34 Make a Text Editor that autosaves and includes the date in the filename 
+- [ ] 35 Create an HSV Color Representation 
+- [ ] 36 Window Manager 
+- [ ] 37 Basic Relational Database Software *(SQL Support, Handle Relationships, Focus on Efficiency)* 
+- [ ] 38 Pixel Editor 
+- [ ] 39 Trivial File Transfer Protocol (TFTP): Allow a client to put a file onto a remote host 
+- [ ] 40 Markdown (HTML/XML) Editor 
+- [ ] 41 IP Tracking Visualization 
+- [ ] 42 Port Scanner 
+- [ ] 43 Old School Demo Effect (Plasma, Tunnel, Scrollers, Zoomers, etc...) 
 - [x] 44 FizzBuzz in Assembly
-- [ ] 45  
+- [ ] 45 RPN Calculator 
 - [x] 46 Counts occurrences of characters in a Given String *(include support for unicode characters)* 
-- [ ] 47  
-- [ ] 48  
-- [ ] 49  
-- [ ] 50  
-- [ ] 51  
-- [ ] 52  
-- [ ] 53  
-- [ ] 54  
-- [ ] 55  
+- [ ] 47 Towers of Hanoi
+- [ ] 48 Music Visualizer
+- [ ] 49 Unicode Converter *(Support for UTF-8, 16LE, 32LE, and 32BE)*
+- [ ] 50 Calculate the first (n) digits of pi 
+- [ ] 51 Least Squares Fitting Algorithm 
+- [ ] 52 Given an Array of Stock's values over time, find the period of time where the stocks could have made the most money 
+- [ ] 53 Highest Prime Factor Calculator 
+- [ ] 54 Hide and Extract Data in images (Basic Steganography) *(Bonus: Include .gif support)* 
+- [ ] 55 Web Page Crawler 
 - [x] 56 Password Generator *(Let User Choose Options)* 
-- [ ] 57  
-- [ ] 58  
-- [ ] 59  
-- [ ] 60  
+- [ ] 57 Vingére cipher encryption/decryption 
+- [ ] 58 Game Of Life 
+- [ ] 59 Caesar Cipher Cracker 
+- [ ] 60 Dijkstra's Algorithm 
 - [x] 61 ROT 13 
 - [ ] 62  
 - [ ] 63  
