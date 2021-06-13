@@ -78,26 +78,26 @@
 - [ ] 78 Virtual Machine with a Script that Writes "Hello, World" 
 - [ ] 79 Basic Bootloader (with extended file system) 
 - [ ] 80 Terminal Shell (Executable Binaries, Pipe System, Redirection, and History) *(BONUS: Make it a GUI)* 
-- [ ] 81  
-- [ ] 82  
-- [ ] 83  
-- [ ] 84  
-- [ ] 85  
-- [ ] 86  
-- [ ] 87  
-- [ ] 88  
-- [ ] 89  
-- [ ] 90  
-- [ ] 91  
-- [ ] 92  
-- [ ] 93  
-- [ ] 94  
-- [ ] 95  
-- [ ] 96  
-- [ ] 97  
-- [ ] 98  
-- [ ] 99  
-- [ ] 100  
+- [ ] 81 HTML + JavaScript Debugger 
+- [ ] 82 Write an Interpreted LISP-like Programming Language 
+- [ ] 83 Make an application that is capable of mounting filesystems from other OSes using the FUSE model 
+- [ ] 84 Universal Asynchronous Reciever/Transmitter (UART) Game (In assembly) 
+- [ ] 85 Pong Game as a UEFI file in color (Hint: http://rodsbooks.com/efi-programming/index.html) 
+- [ ] 86 Design an Esoteric Language 
+- [ ] 87 C Compiler 
+- [ ] 88 Turing Machine Simulator 
+- [ ] 89 Read, Evaluate, Print Loop using a compiled language 
+- [ ] 90 Static Website Generator (Scriptable Templates + Content → HTML and CSS)
+- [ ] 91 Chip-8 Emulator *(Hard Mode: Cached Interpreter. Fuck You: Dynamic Recompiler, use dynarec/jit library)* 
+- [ ] 92 Double Pendulum Simulation 
+- [ ] 93 Constructive Solid Geometry 
+- [ ] 94 Ray Tracer 
+- [ ] 95 Real-Time Fast Fourier Transform Spectrum Visualizer 
+- [ ] 96 Generate a Complimentary Color from any input color 
+- [ ] 97 Generate a 5-Color Scheme from the most dominant tones in any image 
+- [ ] 98 General Lambert's-Problem Solver (At least it's not rocket science... Oh wait, it actually is) 
+- [ ] 99 TI-86 Emulator 
+- [ ] 100 N-Body Simulator, with particles having a certain mass and radius depending on the mass that merge if they collide *(Bonus: Include a GUI where you can place particles)* 
 - [ ] 101  
 - [ ] 102  
 - [ ] 103  
