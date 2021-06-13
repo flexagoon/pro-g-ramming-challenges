@@ -98,48 +98,48 @@
 - [ ] 98 General Lambert's-Problem Solver (At least it's not rocket science... Oh wait, it actually is) 
 - [ ] 99 TI-86 Emulator 
 - [ ] 100 N-Body Simulator, with particles having a certain mass and radius depending on the mass that merge if they collide *(Bonus: Include a GUI where you can place particles)* 
-- [ ] 101  
-- [ ] 102  
-- [ ] 103  
-- [ ] 104  
-- [ ] 105  
-- [ ] 106  
-- [ ] 107  
-- [ ] 108  
-- [ ] 109  
-- [ ] 110  
+- [ ] 101 Eulerian Path 
+- [ ] 102 Draw a spinning 3D Cube 
+- [ ] 103 Cellular Textures 
+- [ ] 104 Knight's Tour 
+- [ ] 105 Monster Raising/Breeding Simulator 
+- [ ] 106 Tetris 
+- [ ] 107 Snake 
+- [ ] 108 Pipe Dreams 
+- [ ] 109 Pac Man, With Different Behaviors for each ghost 
+- [ ] 110 Dragon Quest/Basic RPG Engine 
 - [x] 111 Rock Paper Scissors 
-- [ ] 112  
-- [ ] 113  
-- [ ] 114  
-- [ ] 115  
-- [ ] 116  
-- [ ] 117  
-- [ ] 118  
-- [ ] 119  
-- [ ] 120  
-- [ ] 121  
-- [ ] 122  
-- [ ] 123  
-- [ ] 124  
-- [ ] 125  
-- [ ] 126  
-- [ ] 127  
-- [ ] 128  
-- [ ] 129  
-- [ ] 130  
-- [ ] 131  
-- [ ] 132  
-- [ ] 133  
-- [ ] 134  
-- [ ] 135  
-- [ ] 136  
-- [ ] 137  
-- [ ] 138  
-- [ ] 139  
+- [ ] 112 First-Person Engine in OpenGL (Walking, Looking Around, Jumping on Obstacles) *(BONUS: VR Compatibility)* 
+- [ ] 113 Shuffle a Deck of Cards (Include a Visualiz) 
+- [ ] 114 Simulate a game of Tag using a multi-agent system 
+- [ ] 115 Wolfenstein Clone (FPS, two-dimensional map that appears to be 3-D) (If you need a starting point, search for bisquit's video about DOOM-like Engines) 
+- [ ] 116 Scorched Earth Clone 
+- [ ] 117 Minesweeper 
+- [ ] 118 An Audio/Visual 64KB Demonstration 
+- [ ] 119 Sudoku 
+- [ ] 120 Danmaku (Bullet Hell) Engine 
+- [ ] 121 Roguelike Engine/Dungeon Generator 
+- [ ] 122 Design a Game Engine in Unity 
+- [ ] 123 Yahtzee 
+- [ ] 124 Oil Panic 
+- [ ] 125 Chess 
+- [ ] 126 Go (No AI Necessary) 
+- [ ] 127 Connect Four 
+- [ ] 128 Mastermind 
+- [ ] 129 Missile Command Game 
+- [ ] 130 Tron 
+- [ ] 131 Breakout 
+- [ ] 132 Simon 
+- [ ] 133 LISP Interpreter 
+- [ ] 134 Ulam Spiral 
+- [ ] 135 Bellman-Ford Simulation with at least Five Vertices 
+- [ ] 136 Matrix Arithmetic 
+- [ ] 137 File Compression Utility (Make it GUI) 
+- [ ] 138 PDF Tagger 
+- [ ] 139 Nonogram Generator and Solver 
 - [x] 140 Calculate Dot and Cross Product of Two Vectors
-- [ ] 141  
-- [ ] 142  
-- [ ] 143  
-- [ ] 144  
-- [ ] 145  
+- [ ] 141 Bismuth Fractal 
+- [ ] 142 Seam Carving 
+- [ ] 143 Bayesian Filter 
+- [ ] 144 WMS viewer that isn't web based
+- [ ] 145 ASCII Digital Clock 
