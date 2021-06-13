@@ -142,4 +142,4 @@
 - [ ] 142 Seam Carving 
 - [ ] 143 Bayesian Filter 
 - [ ] 144 WMS viewer that isn't web based
-- [ ] 145 ASCII Digital Clock 
+- [x] 145 ASCII Digital Clock 
