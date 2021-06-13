@@ -7,7 +7,7 @@ use feature 'say';
 use Socket;
 
 # Get the url and split it in path
-say "Enter URL or IP address:";
+say "Enter URL (without https://) or IP address:";
 my $raw_addr = <>;
 unless ($raw_addr =~ /.*\//) {
 	$raw_addr =~ s/\n/\//;
