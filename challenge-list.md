@@ -93,7 +93,7 @@
 - [ ] 93 Constructive Solid Geometry 
 - [ ] 94 Ray Tracer 
 - [ ] 95 Real-Time Fast Fourier Transform Spectrum Visualizer 
-- [ ] 96 Generate a Complimentary Color from any input color 
+- [x] 96 Generate a Complimentary Color from any input color 
 - [ ] 97 Generate a 5-Color Scheme from the most dominant tones in any image 
 - [ ] 98 General Lambert's-Problem Solver (At least it's not rocket science... Oh wait, it actually is) 
 - [ ] 99 TI-86 Emulator 
