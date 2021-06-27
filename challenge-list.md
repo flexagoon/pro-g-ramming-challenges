@@ -30,7 +30,7 @@
 - [x] 30 IP/URL Obscurification *(http://www.pc-help.org/obscure.htm)* 
 - [ ] 31 Radix Base Converter (Given a radic base, convert it to decimal)
 - [ ] 32 Chan aggregator (Lets user view various boards from different 'chans') *(Bonus: Add 4ChanX and Archiving Functionality)* 
-- [ ] 33 Encrypt a File, and upload it online 
+- [x] 33 Encrypt a File, and upload it online 
 - [ ] 34 Make a Text Editor that autosaves and includes the date in the filename 
 - [ ] 35 Create an HSV Color Representation 
 - [ ] 36 Window Manager 
