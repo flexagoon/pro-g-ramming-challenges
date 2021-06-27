@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# Most of this code is just stolen from here:
+# The cryptography part of the code is just stolen from here:
 # https://www.geeksforgeeks.org/encrypt-and-decrypt-files-using-python
 
 # This script depends on cryptography and requests
